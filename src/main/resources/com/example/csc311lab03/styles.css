@@ -1,0 +1,10 @@
+.root {
+    -fx-background-color: #FFE6F3;
+}
+
+#nameLabel {
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-size: 24px;
+    -fx-text-fill: #FF1493;
+    -fx-effect: dropshadow(gaussian,#FFB6C1, 5, 0.5, 0, 0);
+}
